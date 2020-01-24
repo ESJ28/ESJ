@@ -1,0 +1,14 @@
+K:\wpf xmal\wpf xmal\obj\Debug\wpf xmal.csprojAssemblyReference.cache
+K:\wpf xmal\wpf xmal\obj\Debug\App.g.cs
+K:\wpf xmal\wpf xmal\obj\Debug\wpf xmal_MarkupCompile.cache
+K:\wpf xmal\wpf xmal\bin\Debug\wpf xmal.exe.config
+K:\wpf xmal\wpf xmal\bin\Debug\wpf xmal.exe
+K:\wpf xmal\wpf xmal\bin\Debug\wpf xmal.pdb
+K:\wpf xmal\wpf xmal\obj\Debug\MainWindow.g.cs
+K:\wpf xmal\wpf xmal\obj\Debug\wpf xmal_MarkupCompile.lref
+K:\wpf xmal\wpf xmal\obj\Debug\MainWindow.baml
+K:\wpf xmal\wpf xmal\obj\Debug\wpf xmal.g.resources
+K:\wpf xmal\wpf xmal\obj\Debug\wpf_xmal.Properties.Resources.resources
+K:\wpf xmal\wpf xmal\obj\Debug\wpf xmal.csproj.GenerateResource.cache
+K:\wpf xmal\wpf xmal\obj\Debug\wpf xmal.exe
+K:\wpf xmal\wpf xmal\obj\Debug\wpf xmal.pdb

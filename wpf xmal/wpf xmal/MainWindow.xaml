@@ -1,0 +1,56 @@
+﻿<Window x:Class="wpf_xmal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_xmal"
+        xmlns:SystemGesture="http://schemas.microsoft.com/winfx/2009/xaml"
+        xmlns:Sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"  SizeToContent="WidthAndHeight" Topmost="False" WindowState="Normal" Icon="./resources/ninja.ico" MouseMove="Window_MouseMove" >
+    <Window.Resources>
+        <Sys:String x:Key="strHelloAgain">Hello Again</Sys:String>
+        
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>            
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.Row="0"  Grid.ColumnSpan="4" Margin="2,5" TextWrapping="Wrap" Text="enter number"/>
+        <Button x:Name="eight" Content="8" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="200" Height="70" Click="Button8_Click"/>
+        <Button x:Name="nine" Content="9" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="200" Height="70" Click="Button9_Click"/>
+        <Button x:Name="add" Content="+" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="200" Height="70" Click="Buttonadd_click"/>
+        <Button x:Name="seven" Content="7" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="200" Height="70" Click="Button7_click"/>
+
+        <Button Content="4" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="200" Height="70"/>
+        <Button Content="5" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="200" Height="70"/>
+        <Button Content="6" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="200" Height="70"/>
+        <Button Content="-" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="200" Height="70"/>
+
+        <Button x:Name="one" Content="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="200" Height="70"/>
+        <Button x:Name="two" Content="2" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="200" Height="70" />
+        <Button x:Name="three" Content="3" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="200" Height="70" />
+        <Button x:Name="multiply" Content="*" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="200" Height="70"/>
+
+        <Button x:Name="bl" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Top" Width="200" Height="70"/>
+        <Button x:Name="zero" Content="0" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Top" Width="200" Height="70" />
+        <Button x:Name="bl2" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Top" Width="200" Height="70" />
+        <Button x:Name="divide" Content="/" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Top" Width="200" Height="70"/>
+
+        <Button x:Name="equals" Content="=" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="5" VerticalAlignment="Top" Width="200" Height="70"/>
+
+
+    </Grid>
+
+</Window>
