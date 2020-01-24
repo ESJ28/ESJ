@@ -1,0 +1,6 @@
+K:\most sinificant bit program\most sinificant bit program\obj\Debug\most sinificant bit program.csprojAssemblyReference.cache
+K:\most sinificant bit program\most sinificant bit program\bin\Debug\most sinificant bit program.exe.config
+K:\most sinificant bit program\most sinificant bit program\bin\Debug\most sinificant bit program.exe
+K:\most sinificant bit program\most sinificant bit program\bin\Debug\most sinificant bit program.pdb
+K:\most sinificant bit program\most sinificant bit program\obj\Debug\most sinificant bit program.exe
+K:\most sinificant bit program\most sinificant bit program\obj\Debug\most sinificant bit program.pdb

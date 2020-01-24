@@ -1,0 +1,6 @@
+K:\binary conversion task\binary conversion task\bin\Debug\binary conversion task.exe.config
+K:\binary conversion task\binary conversion task\bin\Debug\binary conversion task.exe
+K:\binary conversion task\binary conversion task\bin\Debug\binary conversion task.pdb
+K:\binary conversion task\binary conversion task\obj\Debug\binary conversion task.csprojAssemblyReference.cache
+K:\binary conversion task\binary conversion task\obj\Debug\binary conversion task.exe
+K:\binary conversion task\binary conversion task\obj\Debug\binary conversion task.pdb

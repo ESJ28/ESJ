@@ -1,0 +1,6 @@
+K:\Random (generating random things,etc)\Random (generating random things,etc)\bin\Debug\Random (generating random things,etc).exe.config
+K:\Random (generating random things,etc)\Random (generating random things,etc)\bin\Debug\Random (generating random things,etc).exe
+K:\Random (generating random things,etc)\Random (generating random things,etc)\bin\Debug\Random (generating random things,etc).pdb
+K:\Random (generating random things,etc)\Random (generating random things,etc)\obj\Debug\Random (generating random things,etc).csprojAssemblyReference.cache
+K:\Random (generating random things,etc)\Random (generating random things,etc)\obj\Debug\Random (generating random things,etc).exe
+K:\Random (generating random things,etc)\Random (generating random things,etc)\obj\Debug\Random (generating random things,etc).pdb

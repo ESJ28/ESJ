@@ -1,0 +1,6 @@
+K:\alphabet problem version 2\alphabet problem version 2\bin\Debug\alphabet problem version 2.exe.config
+K:\alphabet problem version 2\alphabet problem version 2\bin\Debug\alphabet problem version 2.exe
+K:\alphabet problem version 2\alphabet problem version 2\bin\Debug\alphabet problem version 2.pdb
+K:\alphabet problem version 2\alphabet problem version 2\obj\Debug\alphabet problem version 2.csproj.CoreCompileInputs.cache
+K:\alphabet problem version 2\alphabet problem version 2\obj\Debug\alphabet problem version 2.exe
+K:\alphabet problem version 2\alphabet problem version 2\obj\Debug\alphabet problem version 2.pdb

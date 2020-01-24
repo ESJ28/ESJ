@@ -1,0 +1,6 @@
+K:\prime number checker\prime number checker\bin\Debug\prime number checker.exe.config
+K:\prime number checker\prime number checker\bin\Debug\prime number checker.exe
+K:\prime number checker\prime number checker\bin\Debug\prime number checker.pdb
+K:\prime number checker\prime number checker\obj\Debug\prime number checker.csprojAssemblyReference.cache
+K:\prime number checker\prime number checker\obj\Debug\prime number checker.exe
+K:\prime number checker\prime number checker\obj\Debug\prime number checker.pdb

@@ -1,0 +1,6 @@
+K:\number to ascii character\number to ascii character\obj\Debug\number to ascii character.csprojAssemblyReference.cache
+K:\number to ascii character\number to ascii character\bin\Debug\number to ascii character.exe.config
+K:\number to ascii character\number to ascii character\bin\Debug\number to ascii character.exe
+K:\number to ascii character\number to ascii character\bin\Debug\number to ascii character.pdb
+K:\number to ascii character\number to ascii character\obj\Debug\number to ascii character.exe
+K:\number to ascii character\number to ascii character\obj\Debug\number to ascii character.pdb

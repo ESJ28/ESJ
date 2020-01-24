@@ -1,0 +1,6 @@
+K:\Fizz buzz\Fizz buzz\bin\Debug\Fizz buzz.exe.config
+K:\Fizz buzz\Fizz buzz\bin\Debug\Fizz buzz.exe
+K:\Fizz buzz\Fizz buzz\bin\Debug\Fizz buzz.pdb
+K:\Fizz buzz\Fizz buzz\obj\Debug\Fizz buzz.csprojAssemblyReference.cache
+K:\Fizz buzz\Fizz buzz\obj\Debug\Fizz buzz.exe
+K:\Fizz buzz\Fizz buzz\obj\Debug\Fizz buzz.pdb
