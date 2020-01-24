@@ -1,0 +1,171 @@
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\GameShooter.exe
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\GameShooter.pdb
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\obj\x86\Debug\GameShooter.csprojResolveAssemblyReference.cache
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\obj\x86\Debug\GameShooter.csproj.CoreCompileInputs.cache
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\obj\x86\Debug\GameShooter.exe
+C:\Users\piers\OneDrive\Documents\Visual Studio 2017\Projects\GameShooter\GameShooter\obj\x86\Debug\GameShooter.pdb
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\Content\enemy.xnb
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\Content\player.xnb
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\GameShooter.exe
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\GameShooter.pdb
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.dll
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.xml
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+K:\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+K:\GameShooter\GameShooter\obj\x86\Debug\GameShooter.csprojResolveAssemblyReference.cache
+K:\GameShooter\GameShooter\obj\x86\Debug\GameShooter.csproj.CoreCompileInputs.cache
+K:\GameShooter\GameShooter\obj\x86\Debug\GameShooter.exe
+K:\GameShooter\GameShooter\obj\x86\Debug\GameShooter.pdb
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\Content\enemy.xnb
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\Content\player.xnb
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\Content\little_enemy.xnb
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\GameShooter.exe
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\GameShooter.pdb
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.dll
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.xml
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+K:\CSharp\GameShooter\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+K:\CSharp\GameShooter\GameShooter\obj\x86\Debug\GameShooter.csprojAssemblyReference.cache
+K:\CSharp\GameShooter\GameShooter\obj\x86\Debug\GameShooter.csproj.CopyComplete
+K:\CSharp\GameShooter\GameShooter\obj\x86\Debug\GameShooter.exe
+K:\CSharp\GameShooter\GameShooter\obj\x86\Debug\GameShooter.pdb
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\Content\enemy.xnb
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\Content\player.xnb
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\Content\little_enemy.xnb
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\GameShooter.exe
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\GameShooter.pdb
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.dll
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.xml
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+K:\MonoGame\MonoGame 1\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+K:\MonoGame\MonoGame 1\GameShooter\obj\x86\Debug\GameShooter.csprojAssemblyReference.cache
+K:\MonoGame\MonoGame 1\GameShooter\obj\x86\Debug\GameShooter.csproj.CopyComplete
+K:\MonoGame\MonoGame 1\GameShooter\obj\x86\Debug\GameShooter.exe
+K:\MonoGame\MonoGame 1\GameShooter\obj\x86\Debug\GameShooter.pdb
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\Content\enemy.xnb
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\Content\player.xnb
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\Content\little_enemy.xnb
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\GameShooter.exe
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\GameShooter.pdb
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.dll
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.xml
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\obj\x86\Debug\GameShooter.csprojAssemblyReference.cache
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\obj\x86\Debug\GameShooter.csproj.CopyComplete
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\obj\x86\Debug\GameShooter.exe
+K:\MonoGame\MonoGame 1 -PMA demo\GameShooter\obj\x86\Debug\GameShooter.pdb
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\Content\enemy.xnb
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\Content\player.xnb
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\Content\little_enemy.xnb
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\GameShooter.exe
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\GameShooter.pdb
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.dll
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.xml
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+K:\MonoGame\MonoGame 1 - Start\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+K:\MonoGame\MonoGame 1 - Start\GameShooter\obj\x86\Debug\GameShooter.csprojAssemblyReference.cache
+K:\MonoGame\MonoGame 1 - Start\GameShooter\obj\x86\Debug\GameShooter.csproj.CopyComplete
+K:\MonoGame\MonoGame 1 - Start\GameShooter\obj\x86\Debug\GameShooter.exe
+K:\MonoGame\MonoGame 1 - Start\GameShooter\obj\x86\Debug\GameShooter.pdb
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\Content\enemy.xnb
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\Content\little_enemy.xnb
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\Content\player.xnb
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\GameShooter.exe
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\GameShooter.pdb
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.dll
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.xml
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+K:\MonoGame - Tutorial 1\GameShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+K:\MonoGame - Tutorial 1\GameShooter\obj\x86\Debug\GameShooter.csprojAssemblyReference.cache
+K:\MonoGame - Tutorial 1\GameShooter\obj\x86\Debug\GameShooter.csproj.CopyComplete
+K:\MonoGame - Tutorial 1\GameShooter\obj\x86\Debug\GameShooter.exe
+K:\MonoGame - Tutorial 1\GameShooter\obj\x86\Debug\GameShooter.pdb
