@@ -1,0 +1,6 @@
+K:\random number game\random number game\bin\Debug\random number game.exe.config
+K:\random number game\random number game\bin\Debug\random number game.exe
+K:\random number game\random number game\bin\Debug\random number game.pdb
+K:\random number game\random number game\obj\Debug\random number game.csprojAssemblyReference.cache
+K:\random number game\random number game\obj\Debug\random number game.exe
+K:\random number game\random number game\obj\Debug\random number game.pdb

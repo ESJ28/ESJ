@@ -1,0 +1,6 @@
+K:\room area calculator (subroutine practice)\room area calculator (subroutine practice)\bin\Debug\room area calculator (subroutine practice).exe.config
+K:\room area calculator (subroutine practice)\room area calculator (subroutine practice)\bin\Debug\room area calculator (subroutine practice).exe
+K:\room area calculator (subroutine practice)\room area calculator (subroutine practice)\bin\Debug\room area calculator (subroutine practice).pdb
+K:\room area calculator (subroutine practice)\room area calculator (subroutine practice)\obj\Debug\room area calculator (subroutine practice).csprojAssemblyReference.cache
+K:\room area calculator (subroutine practice)\room area calculator (subroutine practice)\obj\Debug\room area calculator (subroutine practice).exe
+K:\room area calculator (subroutine practice)\room area calculator (subroutine practice)\obj\Debug\room area calculator (subroutine practice).pdb

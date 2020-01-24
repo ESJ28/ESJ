@@ -1,0 +1,6 @@
+K:\run length encoding taks\run length encoding taks\bin\Debug\run length encoding taks.exe.config
+K:\run length encoding taks\run length encoding taks\bin\Debug\run length encoding taks.exe
+K:\run length encoding taks\run length encoding taks\bin\Debug\run length encoding taks.pdb
+K:\run length encoding taks\run length encoding taks\obj\Debug\run length encoding taks.csprojAssemblyReference.cache
+K:\run length encoding taks\run length encoding taks\obj\Debug\run length encoding taks.exe
+K:\run length encoding taks\run length encoding taks\obj\Debug\run length encoding taks.pdb

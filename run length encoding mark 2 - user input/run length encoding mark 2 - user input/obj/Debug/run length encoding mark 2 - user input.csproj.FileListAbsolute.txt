@@ -1,0 +1,6 @@
+K:\run length encoding mark 2 - user input\run length encoding mark 2 - user input\bin\Debug\run length encoding mark 2 - user input.exe.config
+K:\run length encoding mark 2 - user input\run length encoding mark 2 - user input\bin\Debug\run length encoding mark 2 - user input.exe
+K:\run length encoding mark 2 - user input\run length encoding mark 2 - user input\bin\Debug\run length encoding mark 2 - user input.pdb
+K:\run length encoding mark 2 - user input\run length encoding mark 2 - user input\obj\Debug\run length encoding mark 2 - user input.exe
+K:\run length encoding mark 2 - user input\run length encoding mark 2 - user input\obj\Debug\run length encoding mark 2 - user input.pdb
+K:\run length encoding mark 2 - user input\run length encoding mark 2 - user input\obj\Debug\run length encoding mark 2 - user input.csprojAssemblyReference.cache
