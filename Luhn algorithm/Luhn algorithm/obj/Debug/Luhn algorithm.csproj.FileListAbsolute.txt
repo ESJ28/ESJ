@@ -1,0 +1,6 @@
+K:\Luhn algorithm\Luhn algorithm\bin\Debug\Luhn algorithm.exe.config
+K:\Luhn algorithm\Luhn algorithm\bin\Debug\Luhn algorithm.exe
+K:\Luhn algorithm\Luhn algorithm\bin\Debug\Luhn algorithm.pdb
+K:\Luhn algorithm\Luhn algorithm\obj\Debug\Luhn algorithm.csprojAssemblyReference.cache
+K:\Luhn algorithm\Luhn algorithm\obj\Debug\Luhn algorithm.exe
+K:\Luhn algorithm\Luhn algorithm\obj\Debug\Luhn algorithm.pdb
