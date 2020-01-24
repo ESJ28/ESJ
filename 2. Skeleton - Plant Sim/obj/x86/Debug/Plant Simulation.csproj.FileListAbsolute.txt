@@ -1,0 +1,17 @@
+K:\CSharp\_Skeleton - Plant Sim\bin\Debug\ConsoleApplication.exe
+K:\CSharp\_Skeleton - Plant Sim\bin\Debug\ConsoleApplication.pdb
+K:\CSharp\_Skeleton - Plant Sim\obj\x86\Debug\Plant Simulation.csprojResolveAssemblyReference.cache
+K:\CSharp\_Skeleton - Plant Sim\obj\x86\Debug\Plant Simulation.csproj.CoreCompileInputs.cache
+K:\CSharp\_Skeleton - Plant Sim\obj\x86\Debug\ConsoleApplication.exe
+K:\CSharp\_Skeleton - Plant Sim\obj\x86\Debug\ConsoleApplication.pdb
+K:\CSharp\_Skeleton - Plant Sim - ORIG\bin\Debug\ConsoleApplication.exe
+K:\CSharp\_Skeleton - Plant Sim - ORIG\bin\Debug\ConsoleApplication.pdb
+K:\CSharp\_Skeleton - Plant Sim - ORIG\obj\x86\Debug\Plant Simulation.csprojResolveAssemblyReference.cache
+K:\CSharp\_Skeleton - Plant Sim - ORIG\obj\x86\Debug\Plant Simulation.csproj.CoreCompileInputs.cache
+K:\CSharp\_Skeleton - Plant Sim - ORIG\obj\x86\Debug\ConsoleApplication.exe
+K:\CSharp\_Skeleton - Plant Sim - ORIG\obj\x86\Debug\ConsoleApplication.pdb
+K:\A Level 2020 Mock Files\2. Skeleton - Plant Sim\bin\Debug\ConsoleApplication.exe
+K:\A Level 2020 Mock Files\2. Skeleton - Plant Sim\bin\Debug\ConsoleApplication.pdb
+K:\A Level 2020 Mock Files\2. Skeleton - Plant Sim\obj\x86\Debug\Plant Simulation.csprojAssemblyReference.cache
+K:\A Level 2020 Mock Files\2. Skeleton - Plant Sim\obj\x86\Debug\ConsoleApplication.exe
+K:\A Level 2020 Mock Files\2. Skeleton - Plant Sim\obj\x86\Debug\ConsoleApplication.pdb
